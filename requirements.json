@@ -1,0 +1,8 @@
+{
+  "requiredDocs": {
+    "kbis": "Kbis",
+    "dc1": "DC1",
+    "attestation_fiscale": "Attestation Fiscale",
+    "note_interne": "Note Interne"
+  }
+}
